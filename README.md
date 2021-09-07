@@ -1,2 +1,2 @@
-# Stepin_School-Billing-System
+# Stepin_Database Management System
 My First Mini_Project
