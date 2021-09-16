@@ -22,5 +22,3 @@ My First Mini_Project
 |`5_Report`|Documentation of whole project|
 |`6_ImagesAndVideos`|Code Execution Images and Videos|
 
-# Pending Issues
-* Valgrind errors to be rectified
